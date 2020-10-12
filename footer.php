@@ -1,1 +1,1 @@
-echo 't';
+echo '<script>console.log('test');</script>';
