@@ -1,1 +1,1 @@
-sleep(rand(10,30)); //echo '';
+sleep(rand(20,60)); //echo '';
